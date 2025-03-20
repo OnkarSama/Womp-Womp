@@ -17,4 +17,4 @@ class VectorKNNClassifier:
         print("The Weights being used:", self.weights)
         print("The Data being used:", self.data)
 
-    # def
+    # def testing 
