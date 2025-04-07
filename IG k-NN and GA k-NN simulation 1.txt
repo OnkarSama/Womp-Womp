@@ -1,0 +1,20 @@
+Accuracy of IG k-NN simulation 0 is 77.04918032786885% 
+The weights for GA k-NN simulation 0 is [1.31613187e-05 1.16374469e-07 2.36989643e-08 1.10812990e-05
+ 6.61474012e-07 1.31028887e-05 5.28046481e-07] 
+Accuracy of GA k-NN simulation 0 is 74.86338797814209% 
+Accuracy of IG k-NN simulation 1 is 72.91666666666666% 
+The weights for GA k-NN simulation 1 is [4.09858613e-08 9.38015982e-07 2.66924052e-06 5.24889472e-07
+ 5.90520626e-05 2.28907686e-07 1.96737018e-06] 
+Accuracy of GA k-NN simulation 1 is 67.70833333333334% 
+Accuracy of IG k-NN simulation 2 is 79.8941798941799% 
+The weights for GA k-NN simulation 2 is [2.49915991e-07 1.28430801e-07 8.88571204e-07 2.52265597e-07
+ 5.24252643e-07 7.02001601e-07] 
+Accuracy of GA k-NN simulation 2 is 79.8941798941799% 
+Accuracy of IG k-NN simulation 3 is 75.77319587628865% 
+The weights for GA k-NN simulation 3 is [9.98761996e-07 1.40790433e-05 1.52345854e-07 1.18465862e-06
+ 2.06035127e-07 3.31994992e-07] 
+Accuracy of GA k-NN simulation 3 is 67.5257731958763% 
+Accuracy of IG k-NN simulation 4 is 79.8941798941799% 
+The weights for GA k-NN simulation 4 is [8.61651287e-07 1.54636353e-06 9.88586006e-08 4.46703026e-08
+ 4.50071047e-07 1.47713688e-06 8.77581319e-07] 
+Accuracy of GA k-NN simulation 4 is 76.19047619047619% 
